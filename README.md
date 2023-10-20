@@ -1,15 +1,6 @@
 ## Clonación de la interfaz de Google 
 ###### Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro🦄
 
-#### ÍNDICE
-
-
-* [ Intro](https://github.com/HuehuetSaleth/Google-Clone/edit/main/README.md#intro)
-* [ Estructura](https://github.com/HuehuetSaleth/Google-Clone/edit/main/README.md#estructura)
-* [ Objetivos del Proyecto](https://github.com/HuehuetSaleth/Google-Clone/edit/main/README.md#objetivos-del-proyecto)
-* [ Link al Demo!](https://github.com/HuehuetSaleth/Google-Clone/edit/main/README.md#link-al-demo)
-
-
 ***
 #### INTRO
 HTML o HyperText Markup Language, es el componente básico de la web y junto con CSS3, se crean páginas web que usamos todos los días en el navegador. Definimos el significado, la estructura y el estilo del contenido web a través de estas tecnologias. 
